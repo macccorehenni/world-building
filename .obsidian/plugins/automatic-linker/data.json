@@ -1,0 +1,22 @@
+{
+  "formatOnSave": true,
+  "baseDir": "pages",
+  "showNotice": false,
+  "minCharCount": 0,
+  "considerAliases": false,
+  "namespaceResolution": false,
+  "ignoreDateFormats": true,
+  "formatGitHubURLs": true,
+  "githubEnterpriseURLs": [],
+  "formatJiraURLs": true,
+  "jiraURLs": [],
+  "formatLinearURLs": true,
+  "debug": false,
+  "ignoreCase": false,
+  "replaceUrlWithTitle": false,
+  "replaceUrlWithTitleIgnoreDomains": [],
+  "excludeDirsFromAutoLinking": [],
+  "preventSelfLinking": true,
+  "removeAliasInDirs": [],
+  "runLinterBeforeFormatting": true
+}

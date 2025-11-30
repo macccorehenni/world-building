@@ -1,3 +1,11 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "dataview",
+  "color-cycler",
+  "novel-word-count",
+  "obsidian-linter",
+  "make-md",
+  "obsidian-note-autocreator",
+  "automatic-linker"
 ]

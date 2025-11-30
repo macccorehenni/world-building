@@ -1,0 +1,619 @@
+{
+  "settings": {
+    "useAdvancedFormatting": true,
+    "countType": "frontmatterKey",
+    "countConfig": {
+      "customSuffix": "",
+      "$sessionCountType": "word",
+      "frontmatterKey": "title"
+    },
+    "countType2": "link",
+    "countConfig2": {
+      "$sessionCountType": "word",
+      "customSuffix": "l"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "below",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": false,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": false,
+    "labelOpacity": 0.75,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "Casie Devalo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764439818777,
+      "modifiedDate": 1764483262600,
+      "sizeInBytes": 18,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "title": ""
+      }
+    },
+    "Titans.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 103,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 671,
+      "nonWhitespaceCharacterCount": 558,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.3886792452830189,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764439818794,
+      "modifiedDate": 1764482556866,
+      "sizeInBytes": 730,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3433333333333333,
+        "wordCount": 103,
+        "characterCount": 671,
+        "nonWhitespaceCharacterCount": 558,
+        "newlineCount": 14
+      },
+      "frontmatter": {
+        "tags": [
+          "Group",
+          "MajorLeaders",
+          "FeyMagic"
+        ],
+        "title": "Titans"
+      }
+    },
+    "Topics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 154,
+      "nonWhitespaceCharacterCount": 120,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Index by Topic"
+      ],
+      "createdDate": 1764439818796,
+      "modifiedDate": 1764482556870,
+      "sizeInBytes": 249,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08333333333333333,
+        "wordCount": 25,
+        "characterCount": 154,
+        "nonWhitespaceCharacterCount": 120,
+        "newlineCount": 14
+      },
+      "frontmatter": {
+        "title": "Index by Topic",
+        "aliases": [
+          "Index by Topic"
+        ],
+        "linter-yaml-title-alias": "Index by Topic"
+      }
+    },
+    "Pixie Orvalo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 391,
+      "nonWhitespaceCharacterCount": 309,
+      "newlineCount": 19,
+      "readingTimeInMinutes": 0.18490566037735848,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Keeper of the Wands Pixie Orvalo"
+      ],
+      "createdDate": 1764439818792,
+      "modifiedDate": 1764482556875,
+      "sizeInBytes": 595,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16333333333333333,
+        "wordCount": 49,
+        "characterCount": 391,
+        "nonWhitespaceCharacterCount": 309,
+        "newlineCount": 19
+      },
+      "frontmatter": {
+        "title": "Keeper of the Wands Pixie Orvalo",
+        "aliases": [
+          "Keeper of the Wands Pixie Orvalo"
+        ],
+        "tags": [
+          "Person",
+          "MinorLeader",
+          "DragonFamily",
+          "Titan"
+        ],
+        "linter-yaml-title-alias": "Keeper of the Wands Pixie Orvalo"
+      }
+    },
+    "Fey-blooded.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 92,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 560,
+      "nonWhitespaceCharacterCount": 465,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.3471698113207547,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764439818784,
+      "modifiedDate": 1764483262604,
+      "sizeInBytes": 618,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.30666666666666664,
+        "wordCount": 92,
+        "characterCount": 560,
+        "nonWhitespaceCharacterCount": 465,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "tags": [
+          "MagicTerm",
+          "FeyMagic",
+          "Condition"
+        ],
+        "title": ""
+      }
+    },
+    "Curiosity Orvalo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 139,
+      "nonWhitespaceCharacterCount": 110,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Second Dragon Keeper Curiosity Orvalo"
+      ],
+      "createdDate": 1764439818779,
+      "modifiedDate": 1764482556879,
+      "sizeInBytes": 303,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06666666666666667,
+        "wordCount": 20,
+        "characterCount": 139,
+        "nonWhitespaceCharacterCount": 110,
+        "newlineCount": 10
+      },
+      "frontmatter": {
+        "title": "Second Dragon Keeper Curiosity Orvalo",
+        "aliases": [
+          "Second Dragon Keeper Curiosity Orvalo"
+        ],
+        "linter-yaml-title-alias": "Second Dragon Keeper Curiosity Orvalo"
+      }
+    },
+    "Fey-touched.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 290,
+      "nonWhitespaceCharacterCount": 247,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764439818786,
+      "modifiedDate": 1764483262606,
+      "sizeInBytes": 346,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13333333333333333,
+        "wordCount": 40,
+        "characterCount": 290,
+        "nonWhitespaceCharacterCount": 247,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "tags": [
+          "MagicTerm",
+          "FeyMagic",
+          "Condition"
+        ],
+        "title": ""
+      }
+    },
+    "Feyveil.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 116,
+      "nonWhitespaceCharacterCount": 95,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Feyveil, the Magic Enabler"
+      ],
+      "createdDate": 1764439818790,
+      "modifiedDate": 1764482556883,
+      "sizeInBytes": 297,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05333333333333334,
+        "wordCount": 16,
+        "characterCount": 116,
+        "nonWhitespaceCharacterCount": 95,
+        "newlineCount": 8
+      },
+      "frontmatter": {
+        "title": "Feyveil, the Magic Enabler",
+        "tags": [
+          "MagicTerm",
+          "FeyMagic",
+          "Mageics",
+          "Concept"
+        ],
+        "aliases": [
+          "Feyveil, the Magic Enabler"
+        ],
+        "linter-yaml-title-alias": "Feyveil, the Magic Enabler"
+      }
+    },
+    "Feybraid.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 27,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Feybraid, the Stifler of Magic"
+      ],
+      "createdDate": 1764439818788,
+      "modifiedDate": 1764482556884,
+      "sizeInBytes": 182,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 35,
+        "nonWhitespaceCharacterCount": 27,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "title": "Feybraid, the Stifler of Magic",
+        "aliases": [
+          "Feybraid, the Stifler of Magic"
+        ],
+        "linter-yaml-title-alias": "Feybraid, the Stifler of Magic"
+      }
+    },
+    "Givly Soren.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764484682123,
+      "modifiedDate": 1764484682123,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Fey magic.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 12,
+      "nonWhitespaceCharacterCount": 9,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Fey Magic"
+      ],
+      "createdDate": 1764439818781,
+      "modifiedDate": 1764482556886,
+      "sizeInBytes": 92,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 12,
+        "nonWhitespaceCharacterCount": 9,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "title": "Fey Magic",
+        "aliases": [
+          "Fey Magic"
+        ],
+        "linter-yaml-title-alias": "Fey Magic"
+      }
+    },
+    "Trials.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 17,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Trials of the Elder"
+      ],
+      "createdDate": 1764439818798,
+      "modifiedDate": 1764482556895,
+      "sizeInBytes": 134,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 24,
+        "nonWhitespaceCharacterCount": 17,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "title": "Trials of the Elder",
+        "aliases": [
+          "Trials of the Elder"
+        ],
+        "linter-yaml-title-alias": "Trials of the Elder"
+      }
+    },
+    "Anna Ildren.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 99,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Elder of Ethryia Anna Ildren"
+      ],
+      "createdDate": 1764439818774,
+      "modifiedDate": 1764482556899,
+      "sizeInBytes": 296,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05333333333333334,
+        "wordCount": 16,
+        "characterCount": 124,
+        "nonWhitespaceCharacterCount": 99,
+        "newlineCount": 11
+      },
+      "frontmatter": {
+        "title": "Elder of Ethryia Anna Ildren",
+        "aliases": [
+          "Elder of Ethryia Anna Ildren"
+        ],
+        "tags": [
+          "Titan",
+          "MajorLeader",
+          "Person"
+        ],
+        "linter-yaml-title-alias": "Elder of Ethryia Anna Ildren"
+      }
+    },
+    "Ammareth Soren.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 51,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17,
+      "characterCount": 392,
+      "nonWhitespaceCharacterCount": 321,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.19245283018867926,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Archfey Ammareth Soren"
+      ],
+      "createdDate": 1764439818771,
+      "modifiedDate": 1764484685998,
+      "sizeInBytes": 555,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 392,
+        "nonWhitespaceCharacterCount": 321,
+        "newlineCount": 22
+      },
+      "frontmatter": {
+        "title": "Archfey Ammareth Soren",
+        "tags": [
+          "Person",
+          "FeyMagic",
+          "Titan",
+          "Songwalker"
+        ],
+        "aliases": [
+          "Archfey Ammareth Soren"
+        ],
+        "linter-yaml-title-alias": "Archfey Ammareth Soren"
+      }
+    },
+    "Emrie Orvalo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 263,
+      "nonWhitespaceCharacterCount": 216,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Keeper of the Dragons Emrie Orvalo"
+      ],
+      "createdDate": 1764484242497,
+      "modifiedDate": 1764484576885,
+      "sizeInBytes": 418,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 263,
+        "nonWhitespaceCharacterCount": 216,
+        "newlineCount": 20
+      },
+      "frontmatter": {
+        "title": "Keeper of the Dragons Emrie Orvalo",
+        "aliases": [
+          "Keeper of the Dragons Emrie Orvalo"
+        ],
+        "linter-yaml-title-alias": "Keeper of the Dragons Emrie Orvalo"
+      }
+    }
+  }
+}

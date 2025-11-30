@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Baseline",
+  "accentColor": "#58a1e8",
+  "interfaceFontFamily": "Avenir Next",
+  "textFontFamily": "Hoefler Text",
+  "monospaceFontFamily": "Menlo"
+}

@@ -1,6 +1,7 @@
 ---
 title: Index by Topic
 aliases: [Index by Topic]
+linter-yaml-title-alias: Index by Topic
 ---
 
 # Index by Topic

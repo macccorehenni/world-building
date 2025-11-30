@@ -1,1 +1,5 @@
-{}
+{
+  "showInlineTitle": false,
+  "foldIndent": false,
+  "promptDelete": false
+}

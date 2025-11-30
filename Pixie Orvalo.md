@@ -2,11 +2,12 @@
 title: Keeper of the Wands Pixie Orvalo
 aliases: [Keeper of the Wands Pixie Orvalo]
 tags: [Person, MinorLeader, DragonFamily, Titan]
+linter-yaml-title-alias: Keeper of the Wands Pixie Orvalo
 ---
 
 # Keeper of the Wands Pixie Orvalo
 
-#Person #MinorLeader #DragonFamily #Titan 
+#Person #MinorLeader #DragonFamily #Titan
 
 ## Traits
 

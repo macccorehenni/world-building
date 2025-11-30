@@ -1,6 +1,7 @@
 ---
 title: Second Dragon Keeper Curiosity Orvalo
 aliases: [Second Dragon Keeper Curiosity Orvalo]
+linter-yaml-title-alias: Second Dragon Keeper Curiosity Orvalo
 ---
 
 # Second Dragon Keeper Curiosity Orvalo
