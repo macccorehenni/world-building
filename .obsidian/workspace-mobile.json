@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pixie Orvalo.md",
+                "file": "Topics.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pixie Orvalo"
+              "title": "Topics"
             }
           }
         ]
@@ -181,10 +181,13 @@
         "id": "245adfdbfee6d142",
         "type": "leaf",
         "state": {
-          "type": "mk-path-view",
-          "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -206,9 +209,58 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "66eb79935edeeac1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "dc768be147a5bf5c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "41ad7e93edb1be49",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "131030c64f58328c",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
       }
     ],
-    "currentTab": 8
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,14 +277,15 @@
   },
   "active": "e3b9c720aad0119a",
   "lastOpenFiles": [
+    "Index.md",
+    "Topics.md",
     "Topics 2.md",
     "Topics 1.md",
-    "Topics.md",
+    "Pixie Orvalo.md",
     "Ammareth Soren.md",
     "Givly Soren.md",
     "Girly Soren.md",
     "Emrie Orvalo.md",
-    "Pixie Orvalo.md",
     "Fey magic.md",
     "Tags",
     "Fey-touched.md",

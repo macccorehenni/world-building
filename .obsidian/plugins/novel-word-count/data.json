@@ -100,42 +100,7 @@
         "title": ""
       }
     },
-    "Titans.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 103,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3433333333333333,
-      "characterCount": 671,
-      "nonWhitespaceCharacterCount": 558,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.3886792452830189,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1764439818794,
-      "modifiedDate": 1764482556866,
-      "sizeInBytes": 730,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3433333333333333,
-        "wordCount": 103,
-        "characterCount": 671,
-        "nonWhitespaceCharacterCount": 558,
-        "newlineCount": 14
-      },
-      "frontmatter": {
-        "tags": [
-          "Group",
-          "MajorLeaders",
-          "FeyMagic"
-        ],
-        "title": "Titans"
-      }
-    },
-    "Topics.md": {
+    "Index.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -169,6 +134,41 @@
           "Index by Topic"
         ],
         "linter-yaml-title-alias": "Index by Topic"
+      }
+    },
+    "Titans.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 103,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 671,
+      "nonWhitespaceCharacterCount": 558,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.3886792452830189,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764439818794,
+      "modifiedDate": 1764482556866,
+      "sizeInBytes": 730,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3433333333333333,
+        "wordCount": 103,
+        "characterCount": 671,
+        "nonWhitespaceCharacterCount": 558,
+        "newlineCount": 14
+      },
+      "frontmatter": {
+        "tags": [
+          "Group",
+          "MajorLeaders",
+          "FeyMagic"
+        ],
+        "title": "Titans"
       }
     },
     "Pixie Orvalo.md": {
@@ -319,6 +319,36 @@
         "title": ""
       }
     },
+    "Topics 2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764556209777,
+      "modifiedDate": 1764556216377,
+      "sizeInBytes": 18,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "title": ""
+      }
+    },
     "Feyveil.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -405,23 +435,26 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1764484682123,
-      "modifiedDate": 1764484682123,
-      "sizeInBytes": 0,
+      "modifiedDate": 1764556234716,
+      "sizeInBytes": 18,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
-        "characterCount": 0,
+        "characterCount": 1,
         "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "title": ""
       }
     },
     "Fey magic.md": {
@@ -458,6 +491,36 @@
           "Fey Magic"
         ],
         "linter-yaml-title-alias": "Fey Magic"
+      }
+    },
+    "Topics 1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764536982792,
+      "modifiedDate": 1764556209948,
+      "sizeInBytes": 18,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "title": ""
       }
     },
     "Trials.md": {
@@ -613,6 +676,33 @@
           "Keeper of the Dragons Emrie Orvalo"
         ],
         "linter-yaml-title-alias": "Keeper of the Dragons Emrie Orvalo"
+      }
+    },
+    "Topics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1764559660976,
+      "modifiedDate": 1764559660976,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
