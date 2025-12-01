@@ -678,7 +678,7 @@
         "linter-yaml-title-alias": "Keeper of the Dragons Emrie Orvalo"
       }
     },
-    "Topics.md": {
+    "README.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
